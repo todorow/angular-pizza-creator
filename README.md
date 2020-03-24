@@ -1,5 +1,5 @@
 # Angular Pizza Creator
-
+![Node.js CI](https://github.com/todorow/angular-pizza-creator/workflows/Node.js%20CI/badge.svg)
 ### Features
 
 * Angular v8 
